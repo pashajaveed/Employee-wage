@@ -1,5 +1,3 @@
-Hello Welcome!!
-
 ispresent=0
 isabsent=1
 randomnumber=$((RANDOM%2))
